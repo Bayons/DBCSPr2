@@ -1,7 +1,3 @@
-/WebApplication1/build/
-/WebApplication1/dist/
 WebApplication1/nbproject/project.xml
-
-*.properties
 
 WebApplication1/nbproject/build-impl.xml
