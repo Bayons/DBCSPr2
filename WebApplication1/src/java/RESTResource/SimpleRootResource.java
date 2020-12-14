@@ -39,7 +39,8 @@ public class SimpleRootResource {
     @Produces(MediaType.TEXT_PLAIN)
     public String getText() {
         //TODO return proper representation object
-        throw new UnsupportedOperationException();
+        //throw new UnsupportedOperationException();
+        return "Hola mundo desde RESTfulWS";
     }
 
     /**
