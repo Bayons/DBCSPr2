@@ -49,5 +49,6 @@ public class SimpleRootResource {
     @PUT
     @Consumes(MediaType.TEXT_PLAIN)
     public void putText(String content) {
+        System.out.println("Hola: " + content);
     }
 }
